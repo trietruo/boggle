@@ -4,6 +4,8 @@
 //     isPrefix(), print(), and wordCount()
 // Last Changed: 4.17.2023
 
+#ifndef TRIENODE_H
+#define TRIENODE_H
 #include <cstddef>
 #include <stdexcept>
 #include <string>
