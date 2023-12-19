@@ -11,6 +11,7 @@
 #include <fstream>
 #include "Boggle.h"
 
+
 int main() {
     // Open both the board and dictionary file
     std::ifstream infile1;
