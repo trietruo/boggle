@@ -4,6 +4,8 @@
 //     as insert(), loadFromFile(), isWord(), isPrefix(), print(), and wordCount()
 // Last Changed: 4.17.2023
 
+#ifndef TRIE_H
+#define TRIE_H
 #include <cstddef>
 #include <stdexcept>
 #include <string>
