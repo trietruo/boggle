@@ -11,6 +11,7 @@
 #include <string>
 #include "Trie.h"
 
+
 const std::string BOARD_NAME("boggle-in.txt");
 const std::string DICTIONARY_NAME("ospd.txt");
 const int SIZE(4);
@@ -67,5 +68,6 @@ public:
     // post: the word is inserted if it meets all criteria
     void insertIfLegal(std::string word);
 };
+
 
 #endif //PROJECT10_BOGGLE_H
