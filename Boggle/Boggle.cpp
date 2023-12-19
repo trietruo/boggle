@@ -11,6 +11,7 @@
 #include <fstream>
 #include "Boggle.h"
 
+
 // Constructor
 // pre: two input streams are prepared
 // post: the board is set as designated and the dictionary is imported into a Trie
