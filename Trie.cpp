@@ -12,7 +12,6 @@
 #include <fstream>
 #include "Trie.h"
 
-
 // Default constructor.
 // post: creates a root with a space as a character
 Trie::Trie() : root(' ', false)
