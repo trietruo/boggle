@@ -4,8 +4,6 @@
 //     including functions to solve for and print found words
 // Last Changed: 4.24.2023
 
-#ifndef PROJECT10_BOGGLE_H
-#define PROJECT10_BOGGLE_H
 #include <cstddef>
 #include <stdexcept>
 #include <string>
@@ -70,4 +68,4 @@ public:
 };
 
 
-#endif //PROJECT10_BOGGLE_H
+#endif
